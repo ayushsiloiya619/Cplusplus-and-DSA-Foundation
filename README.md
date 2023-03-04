@@ -1,4 +1,4 @@
-# cplusplus-and-DSA-Foundation
+# Cplusplus-and-DSA-Foundation
 Work area
 <br>
 <b>All assignments are separated through each folder with their respective name.</b><br><br>
